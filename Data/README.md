@@ -5,7 +5,7 @@
        'DeepSeek-V3', 'Phi-4', 'RNJ-1', 'OLMo-3', 'glm-4-9b-chat']
 - 'tokenizer_token_index' : Index mapping to the token in that model's tokenizer
 -  'token': Example: ["b'!'", 'b\'"\'', "b'#'", "b'$'", "b'%'"]
--  'decoded_token': Example: [['!', '"', '#', '$', '%']
+-  'decoded_token': Example: ['!', '"', '#', '$', '%']
 -  'script': 83 values:
     - ['Common', 'Latin', 'Cyrillic', 'Arabic', 'Devanagari', 'Georgian',
        'Hebrew', 'Armenian', 'Malayalam', 'Greek', 'Bengali', 'Han',
